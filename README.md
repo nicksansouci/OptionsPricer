@@ -1,10 +1,5 @@
-Quantitative Computational Mathematics Using C++
+Equity Options Pricer
 
+This project is a C++ program that uses many different quantitative formulas for theoretical options pricing.
 
-Many different mathematic classes and equations to compute values for many different scenarios.
-
-
-This includes calculations of derivatives, equities, and bonds. 
-
-
-Some equations implemented are the Black-Scholes Model, Monte Carlo Calculations, and many more.
+Using volatility and current market conditions, I have established different theoretical pricing models to help identify undervalued and overvalued option contracts.
