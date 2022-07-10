@@ -1,4 +1,4 @@
-Equity Options Pricer
+Equity Options Theoretical Pricing Models
 
 This project is a C++ program that uses many different quantitative formulas for theoretical options pricing.
 
