@@ -12,4 +12,5 @@ public:
 	int periods;
 	compoundInterest() : principal{}, interestrate{}, periods{} {}
 	void calculate_interest();
+	double black_scholes_merton();
 };
