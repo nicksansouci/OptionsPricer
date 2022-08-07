@@ -23,3 +23,6 @@ void compoundInterest::calculate_interest() {
 		std::cout << "Your principal + compound interest = " << compoundedprincipal << '\n';
 	}
 
+
+
+
