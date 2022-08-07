@@ -82,8 +82,9 @@ int main() {
     double nU = s; //New value of the stock
     double iU = 50.0; // Initial value of the stock
     double delta = option_delta(present, initialval, nU, iU);
+    //Will be adding other option greeks soon
 
-
+    //Output all variables, call price, put price, and delta.
     std::cout << "Underlying Asset Price: " << s << std::endl;
     std::cout << "Strike Price: " << k << std::endl;
     std::cout << "Risk Free Rate: " << r << "(" << r * 100 << "%)" << std::endl;
